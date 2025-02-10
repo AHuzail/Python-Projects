@@ -1,4 +1,5 @@
-# Python Snake Game
+# Python Snake Game using OOPs
+
 
 A classic Snake Game implemented in Python, where the player maneuvers a snake to collect food, growing in length with each piece consumed. The game ends if the snake collides with itself or the boundaries.
 
